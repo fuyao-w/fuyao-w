@@ -8,8 +8,8 @@
 
 ### 我主要开发的仓库，很多都是受现有开源项目的启发
 
-<a href="https://github.com/fuyao-w/go-raft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fuyao-w&repo=go-raft&show_owner=true&theme=tokyonight" />
+<a href="https://github.com/fuyao-w/papillon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fuyao-w&repo=papillon&show_owner=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/fuyao-w/rutin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fuyao-w&repo=rutin&show_owner=true&theme=tokyonight" />
